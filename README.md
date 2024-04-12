@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mutatedart
+- 👋 Hi, I’m shreduardo
 - 👀 I’m interested in learning, developing, and improving myself
 - 🌱 I’m currently learning React Native and JavaScript
 - 💞️ I’m looking to collaborate on any simple, fun front-end projects
